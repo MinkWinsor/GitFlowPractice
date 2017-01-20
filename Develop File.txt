@@ -1,1 +1,3 @@
 This file is only changed in the develop branch to log changes.
+
+Merged Willy Wonka candy feature.
