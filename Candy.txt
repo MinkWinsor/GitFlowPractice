@@ -1,7 +1,7 @@
 List of candy I enjoy:
 
 Hershey Candy:
-Mars Candy:
+
 
 Hershey Bar
 Kisses
@@ -20,6 +20,10 @@ Sprees
 Bottle Caps
 Sweet Tarts
 Gobstoppers
+
+Mars Candy:
+
+
 M&Ms
 Milky Way
 Skittles <----- Favorite
